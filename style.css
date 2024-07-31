@@ -1,0 +1,64 @@
+*{
+     text-align: center;
+     color: white;
+}
+h2{
+     text-align: center;
+}
+
+h2 a
+{
+     color: red ;
+     text-decoration: none;
+}
+h2 a:hover
+{
+   text-decoration: underline;
+   color: black;
+}
+table{
+     height: 300px;
+     width: 700px;
+     
+}
+table ,tr,td
+{
+   border:2px solid white; 
+   border-collapse: collapse;
+}
+#c1
+{
+  background-color: rgb(43, 153, 153);  
+
+}
+#c2{
+     background-color: rgb(184, 75, 48);
+}
+#c3{
+     background-color: rgb(48, 164, 241);
+}
+#c4{
+     background-color: rgb(25, 25, 243);
+}
+#c5{
+     background-color: rgb(2, 78, 13);
+
+}
+#c6{
+     background-color: rgb(88, 5, 2);
+}
+#c7{
+     background-color:rgb(241, 170, 36) ;
+}
+#c8{
+     background-color: rgb(25, 25, 243);
+}
+#c9{
+     background-color: rgb(247, 117, 139);
+}
+table{
+     margin-left: 300px;
+     margin-top: 50px;
+}
+
+
